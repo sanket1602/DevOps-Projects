@@ -2,7 +2,7 @@
 
 Hi, I approached a couple of "tech influencers" to share this list however, they have not done it. I don't know whats the story behind 'not sharing free resources is'. The only reason I asked them is because they have a higher audience reach. So, I decided to do this myself.
 
-I hope this helps people who are new to the field of DevOps or even experienced people. Some of them don't need a test environment. Please feel free to add if you know more. I will keep updating this repo.
+I hope this helps people who are new to the field of DevOps or even experienced people. Some of them don't need a test environment. Please feel free to add if you know more. I will keep updating this repo. Refer this post = https://www.reddit.com/r/devops/comments/1kudmi2/free_devops_projects_websites/ 
 
 P.S. I do not own any of these. If you own any of them and want them removed from this list (for whatever reasons), please do let me know. I will remove them.
 
